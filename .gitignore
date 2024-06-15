@@ -1,0 +1,7 @@
+.venv/
+.env
+client.py
+db.sqlite3
+media/
+TODO.txt
+chat_client.py
